@@ -23,7 +23,7 @@
 *
 */
 
-#include "Yaml.hpp"
+#include <yaml/Yaml.hpp>
 #include <memory>
 #include <fstream>
 #include <sstream>
